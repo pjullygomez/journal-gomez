@@ -1,7 +1,6 @@
 import React from "react";
 import JournalList from "./components/JournalList";
 import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
